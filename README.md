@@ -46,7 +46,7 @@ This project helped solidify my understanding of:
 ### 9. Comparison with PyTorch
 - Re-implemented the same neural network neuron in PyTorch to observe the similarity in how gradients were calculated using automatic differentiation.
 ### 10. Towards a Neural Network Library
-This example laid the foundation for building a larger neural network library by stacking multiple neurons into layers and introducing an optimizer to update weights based on gradients.
+- This example laid the foundation for building a larger neural network library by stacking multiple neurons into layers and introducing an optimizer to update weights based on gradients.
 
 # Acknowledgements
 A big thank you to Andrej Karpathy for the amazing Micrograd tutorial and his contributions to making deep learning more accessible!
