@@ -1,2 +1,2 @@
-# micrograd_from_scratch
+# Micrograd from scratch
 Building a micrograd from scratch.
