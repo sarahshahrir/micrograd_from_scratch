@@ -15,5 +15,5 @@ Minimalist Code: The entire project is implemented in under 100 lines of Python 
 - The inner workings of backpropagation algorithms.
 - How neural networks can be constructed manually with simple building blocks.
 
-# Acknowledgements
+## Acknowledgements
 A big thank you to Andrej Karpathy for the amazing Micrograd tutorial and his contributions to making deep learning more accessible!
